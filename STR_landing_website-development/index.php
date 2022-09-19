@@ -179,7 +179,7 @@ if (isset($_POST['querySubmission'])) {
             </ul>
             <div class="navbar-btn"> 
             <button class="login-btn-navbar" onclick="window.location.href='https://dev.savvy-srt.com/login'">Login</button>
-                <button class="myBtn">Request for a Demo</button>
+                <button class="myBtn">Request for a Demo1</button>
             </div>  
         </div>
     </div>
